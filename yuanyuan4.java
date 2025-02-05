@@ -34,6 +34,7 @@ public class yuanyuan4
                     System.out.println("Invalid choice.");
             }
             System.out.println();
+	}
     }
 }
 
